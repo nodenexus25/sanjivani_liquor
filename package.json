@@ -1,0 +1,11 @@
+{
+  "name": "sanjivani-spirits-root",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix sanjivani-spirits",
+    "build": "npm run build --prefix sanjivani-spirits",
+    "preview": "npm run preview --prefix sanjivani-spirits",
+    "install": "npm install --prefix sanjivani-spirits"
+  }
+}
